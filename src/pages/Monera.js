@@ -48,8 +48,9 @@ import axios from 'axios';
 
     useEffect(() => {
       
-      axios.get('http://localHost:3001').then(res => setData( 
-        res.data.filter( item => item.name.includes(search)) )
+      axios.get('http://localhost:3001/monera').then(res => setData( 
+        res.data.filter( item => item.name.toLowerCase().includes(search.toLowerCase())
+        ))
       )
       .catch( err => {
         console.error(err)
@@ -121,7 +122,8 @@ import axios from 'axios';
   
     filter: {
       width: "100%",
-      backgroundColor: "red"
+      backgroundColor: "white",
+      padding: 10
     },
   
     row: {
