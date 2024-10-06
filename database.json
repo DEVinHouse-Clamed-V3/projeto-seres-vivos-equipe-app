@@ -326,7 +326,7 @@
           "cellOrganization": "Unicelulares",
           "reproduction": "Assexuada",
           "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
+          "image": "https://www.mdsaude.com/wp-content/uploads/ameba-ilustracao-1200x900.jpg"
         },
         {
           "id": "2",
@@ -337,7 +337,7 @@
           "cellOrganization": "Unicelulares",
           "reproduction": "Assexuada",
           "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/32413679/large.jpg"
         },
         {
           "id": "3",
@@ -348,7 +348,7 @@
           "cellOrganization": "Unicelulares",
           "reproduction": "Assexuada",
           "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Euglenoid_movement.jpg"
         },
         {
           "id": "4",
@@ -359,7 +359,7 @@
           "cellOrganization": "Unicelulares",
           "reproduction": "Sexuada",
           "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
+          "image": "https://img.freepik.com/fotos-premium/microscopia-de-campo-escuro-diatomeias-algas-silicioas_1168123-23113.jpg"
         },
         {
           "id": "5",
@@ -370,7 +370,7 @@
           "cellOrganization": "Unicelulares ou Multicelulares",
           "reproduction": "Sexuada e Assexuada",
           "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
+          "image": "https://static.todamateria.com.br/upload/al/ga/algasverdes-0.jpg"
         },
         {
           "id": "6",
@@ -381,7 +381,7 @@
           "cellOrganization": "Unicelulares",
           "reproduction": "Assexuada",
           "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Plasmodium_falciparum_01.png"
         },
         {
           "id": "7",
@@ -392,7 +392,7 @@
           "cellOrganization": "Unicelulares",
           "reproduction": "Sexuada",
           "respiration": "Aeróbia",
-          "image": "https://via.placeholder.com/150"
+          "image": "https://mosys.univie.ac.at/fileadmin/_processed_/csm_clamydomonas-reinhardtii_-coloriert_2d7916d14d.jpg"
         }
       ]
   }
